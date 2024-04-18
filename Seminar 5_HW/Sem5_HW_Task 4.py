@@ -8,5 +8,6 @@ def fibonachi(n):
         yield a
         a, b = b, a + b
 
+
 number = int(input("Введите число: "))
 print(list(fibonachi(number)))
