@@ -1,0 +1,140 @@
+[
+    {
+        "parent_directory": "./Seminar_7_HW",
+        "is_file": true,
+        "name": "Sem7_HW_Task2.py",
+        "size_in_bytes": 2313
+    },
+    {
+        "parent_directory": "./Seminar_7_HW",
+        "is_file": true,
+        "name": "Sem7_HW_Task3.py",
+        "size_in_bytes": 2065
+    },
+    {
+        "parent_directory": "./Seminar_7_HW",
+        "is_file": true,
+        "name": "test.py",
+        "size_in_bytes": 518
+    },
+    {
+        "parent_directory": "./Seminar_7_HW",
+        "is_file": true,
+        "name": "__init__.py",
+        "size_in_bytes": 0
+    },
+    {
+        "parent_directory": "./Seminar_7_HW",
+        "is_file": false,
+        "name": "files",
+        "size_in_bytes": 19660
+    },
+    {
+        "parent_directory": "./Seminar_7_HW",
+        "is_file": false,
+        "name": "functions",
+        "size_in_bytes": 12151
+    },
+    {
+        "parent_directory": "./Seminar_7_HW\\files",
+        "is_file": true,
+        "name": "document_1.doc",
+        "size_in_bytes": 3785
+    },
+    {
+        "parent_directory": "./Seminar_7_HW\\files",
+        "is_file": true,
+        "name": "dokument_2.doc",
+        "size_in_bytes": 3025
+    },
+    {
+        "parent_directory": "./Seminar_7_HW\\files",
+        "is_file": true,
+        "name": "picture_1.jpg",
+        "size_in_bytes": 2818
+    },
+    {
+        "parent_directory": "./Seminar_7_HW\\files",
+        "is_file": true,
+        "name": "picture_3.jpg",
+        "size_in_bytes": 2797
+    },
+    {
+        "parent_directory": "./Seminar_7_HW\\files",
+        "is_file": true,
+        "name": "pict_new_001.jpg",
+        "size_in_bytes": 2450
+    },
+    {
+        "parent_directory": "./Seminar_7_HW\\files",
+        "is_file": true,
+        "name": "pict_new_002.jpg",
+        "size_in_bytes": 2748
+    },
+    {
+        "parent_directory": "./Seminar_7_HW\\files",
+        "is_file": true,
+        "name": "text_1.txt",
+        "size_in_bytes": 843
+    },
+    {
+        "parent_directory": "./Seminar_7_HW\\files",
+        "is_file": true,
+        "name": "text_2.txt",
+        "size_in_bytes": 1194
+    },
+    {
+        "parent_directory": "./Seminar_7_HW\\functions",
+        "is_file": true,
+        "name": "create_directory.py",
+        "size_in_bytes": 987
+    },
+    {
+        "parent_directory": "./Seminar_7_HW\\functions",
+        "is_file": true,
+        "name": "create_files_with_parameters.py",
+        "size_in_bytes": 2093
+    },
+    {
+        "parent_directory": "./Seminar_7_HW\\functions",
+        "is_file": true,
+        "name": "files_lines_multiplication.py",
+        "size_in_bytes": 2348
+    },
+    {
+        "parent_directory": "./Seminar_7_HW\\functions",
+        "is_file": true,
+        "name": "file_name_generation.py",
+        "size_in_bytes": 1446
+    },
+    {
+        "parent_directory": "./Seminar_7_HW\\functions",
+        "is_file": true,
+        "name": "group_files_rename.py",
+        "size_in_bytes": 2313
+    },
+    {
+        "parent_directory": "./Seminar_7_HW\\functions",
+        "is_file": true,
+        "name": "random_pairs_of_numbers.py",
+        "size_in_bytes": 990
+    },
+    {
+        "parent_directory": "./Seminar_7_HW\\functions",
+        "is_file": true,
+        "name": "Sem7_Task6.py",
+        "size_in_bytes": 911
+    },
+    {
+        "parent_directory": "./Seminar_7_HW\\functions",
+        "is_file": true,
+        "name": "sort_files.py",
+        "size_in_bytes": 1063
+    },
+    {
+        "parent_directory": "./Seminar_7_HW\\functions",
+        "is_file": true,
+        "name": "__init__.py",
+        "size_in_bytes": 0
+    }
+]
